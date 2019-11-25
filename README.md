@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-Bootstrap-Portfolio Assignment 2
+https://amandawhitetx.github.io/Bootstrap-Portfolio/
