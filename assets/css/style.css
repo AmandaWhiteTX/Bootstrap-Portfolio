@@ -1,11 +1,12 @@
 
 
- h2 {
+ /* h2 {
     width: 100%;
     margin: 0 auto;
-    font-size: 24px;
-    color:teal
-  }
+    font-size: 30px;
+    color:teal;
+    font-family: 'Spicy Rice', cursive;
+  } */
 
   .row {
   margin: 15px;
@@ -29,13 +30,30 @@
       background-color:teal;
      }
 
-   
+     .form-group{
+       margin-right: 2cm;
+       margin-left: 2cm;
+       }
+      
+#Message{
+height: 150px;
+}
+#btn btn-primary{
+  align-content: center;
+}
+
     .navbar-custom { 
       background-color: teal; 
       font: white;
   } 
 
-  #links {
+  #Mylinks {
     font-size:x-large;
     font-style: oblique;
+  }
+
+  #heading{
+    font-size:xx-large;
+    color:teal;
+    font-family: 'Spicy Rice', cursive;
   }
