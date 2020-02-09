@@ -14,12 +14,18 @@
     }
 
     .navbar-brand {
-      color: white;
-      font-family: 'Pattaya', sans-serif;
-      font-size: 30px;
-      font: teal;
+      color: rgb(245, 156, 208);
+      font-family: 'Shrikhand', cursive;
+      font-size: 45px;
+      font: rgb(83, 5, 60);
       background-image: none;
       background-repeat: no-repeat;
+     }
+
+     .h4{
+      font-family: 'Abel', sans-serif;
+      font-size: 25px;
+      font: rgb(235, 29, 156); 
      }
 
      .col-med-9{
@@ -57,3 +63,26 @@ height: 150px;
     color:teal;
     font-family: 'Spicy Rice', cursive;
   }
+
+ .form-label{
+  font-size:x-large;
+  font-style: oblique;
+  color:rgb(233, 64, 191);
+  }
+  
+ #info {
+  font-size:x-large;
+  font-family: 'Handlee', cursive;
+ }
+
+ #sig{
+ font-family: 'Sacramento', cursive;
+font-size:xx-large;
+color: purple;
+font-style: italic;
+ }
+ #contacts{
+  font-family: 'Abel', sans-serif;
+  font-size: 25px;
+  font: rgb(235, 29, 156); 
+ }
